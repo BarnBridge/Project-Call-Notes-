@@ -5,5 +5,5 @@ This is our first of many Bounties so we started if off easy.
 
 Project Call 006 will take place on Thursday December 3rd, 2020
 
-Please sign up by on this Bounty in Gitcoin
+Please sign up for this Bounty at Gitcoin
 
