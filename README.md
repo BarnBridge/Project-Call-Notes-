@@ -3,5 +3,8 @@ We will be offering a Bounty for 50 DAI for writing in depth call notes for our 
 
 
 
-Please sign up for this Bounty at Gitcoin
+Please sign up for this Bounty at Gitcoin.
 
+
+
+Submissions can be uploaded via Pull request in this Repository.
