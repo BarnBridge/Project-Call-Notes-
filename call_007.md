@@ -17,6 +17,7 @@ Attendees: Keegan Selby, Vitaliy Chernyak, Pavlo Bendus, Troy Murray, Milad Most
 #### BBDAO
 #### Smart Yield BOND
 #### Smart Alpha BOND
-## DeFi Standards
-## Bounties
-## Operations/Marketing Run down
+### DeFi Standards
+### Bounties
+### Operations/Marketing Run down
+## Round Table
