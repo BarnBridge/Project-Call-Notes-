@@ -22,17 +22,17 @@ Alright, Bogdan, take it away, and give the saucy details!
 
 ### BBDAO
 
-**Bogdan:** Since last time, we have updated the smart contracts. We've added more functionality. For example, you can cancel a proposal in-case something is wrong or found like a bug or something similar. We went forward with internal reviews– they are complete. Nothing major was wrong, just a few small fixes. Kudos to Atpar for finding and fixing them.
+**Bogdan:** Since last time, we have updated the smart contracts. We've added more functionality. For example, you can cancel a proposal in-case something is wrong or a bug is found or something similar. We went forward with internal reviews– they are complete. Nothing major was wrong, just a few small fixes. Kudos to Atpar for finding and fixing them.
 
 We kicked off one of the audits. It's ongoing. The second one will start up before the first one finishes, so there will be some overlap.
 
 The back-end is in progress. Not much excitement there. We are on the final stretch with a working data pipeline. I think that's all that's remaining– pulling data for the proposals.
 
-Front-end, I'd say 75-80% done. They are connected to the smart contracts deployed on the test-net, & they are connected to the back-end. We just have the proposal creation. Just polishing the final test and checks.
+Front-end, I'd say 75-80% done. They are connected to the smart contracts deployed on the test-net, & they are connected to the back-end. We just have the proposal creation. Just polishing, the final test and checks.
 
 ### Smart Yield BOND
 
-**Bogdan:** Smart contracts development is in progress and running smoothly. We are going to have the first version of them working, hopefully by the end of this week. The internal reviews on those will occur soon.
+**Bogdan:** Smart contract development is in progress and running smoothly. We are going to have the first version of them working, hopefully by the end of this week. The internal reviews on those will occur soon.
 
 UI design is close to being completed, just some finishing touches left. We have done a walkthrough with some of the team and some of the investors. Everybody seems to be happy with the appearance. External audits– booked. Once the internal reviews are finished, we will open the repos to the auditors. The audits are booked for February, so we are on track for the March launch.
 
@@ -60,7 +60,7 @@ Just a refresher— what we are trying to develop is a set of disclosures around
 
 Essentially phase one is getting people familiar and comfortable with the products. What the risks are and all the definitions we are using. We are hoping to create standards around those terms. So that the industry and our potential partners use those terms as well. That will establish some level of uniformity. Providing a basis to develop future products and provide other things like ratings.
 
-We've had conversations with our partners. Chainlink– will give us price feeds to make some of these things happen. This sets the tone for the future. Potentially creating a secondary market for all the assets that are traded we are calling it Bond Desk. We are pondering some ideas that are more long term. They go beyond the standards that would be 'static' to start. 
+We've had conversations with our partners. Chainlink– will give us price feeds to make some of these things happen. This sets the tone for the future. Potentially creating a secondary market for all the assets that are traded, we are calling it Bond Desk. We are pondering some ideas that are more long term. They go beyond the standards that would be 'static' to start. 
 
 We are looking to create ways for people to measure our performance against the ratings and standards we are giving our asset baskets. That's down the road and in-discussion with Chainlink. We are trying to establish parameters around that and define the direction. So people understand where this is going. We want to make sure there's a permissionless way for people to understand— what they're investing in and track how those investments perform against the parameters we've created around the risks. 
 
@@ -73,7 +73,7 @@ We are looking to create ways for people to measure our performance against the 
 
 Right now, we are slowing down a bit on the bounties. But we are trying to think of more ways to get the community involved. Troy and Tyler are always thinking of new things for you guys. 
 
-Right now, we have about two or three bounties ongoing. The meme competitions are still rollin'— please, everyone keep on submitting memes to the meme Discord!
+Right now, we have about two or three bounties ongoing. The meme competitions are still rollin'— please, everyone keep on submitting memes to the meme channel on Discord!
 
 We will be posting new bounties in the Discord and on our social platforms, and if you follow BarnBridge or me on Gitcoin, you will see them there too. Check us out on social media for bounty updates. Keep an eye out on Gitcoin and Discord specifically.
 
@@ -83,7 +83,7 @@ It's time for TeleTyler, sorry community, we tried to get him a Santa suit, but 
 
 ## Operations/Marketing Run down
 
-**Tyler:** Yeah, I couldn't even get a Santa hat. So I'm wearing this Fargo hat and on this television. 
+**Tyler:** Yeah, I couldn't even get a Santa hat. So I'm wearing this Fargo hat and I'm on this television. 
 
 As far as an update goes, I want to talk about the tweetstorm from the 11th that gave general timelines for everything. It's pinned on [Twitter](https://twitter.com/Barn_Bridge/status/1337402484973858817). The roadmap as we wrap up— a version will be on the site. It will be accurate for the majority of the year, less so by the end of the year as changes are proposed. I assume when we release these products, there will be feature requests that change the timelines. 
 
